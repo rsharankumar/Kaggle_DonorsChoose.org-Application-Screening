@@ -44,3 +44,4 @@ The folder Input contains all the input files and a sample submission file to ex
 and the Code folder contains the python coding used for the submission and the file training_log.csv tracks the accuracy <br />
 of the model for all the epochs and the folder Submission has the data that had been submited in the competition<br />
 
+Ranking : 79/581 (in top 15 percentile) <br />
