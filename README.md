@@ -1,4 +1,4 @@
-Code used for the Crowd Analytix Competition on the Super Heros Prediction.<br /> 
+Code used for the Kaggle Competition on the Super Heros Prediction.<br /> 
 <br /> 
 Link to the Completition. <br /> 
 https://www.crowdanalytix.com/contests/identifying-superheroes-from-product-images#_=_
